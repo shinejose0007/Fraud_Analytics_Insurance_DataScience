@@ -1,0 +1,9 @@
+Suggested CV Entry
+
+Insurance Fraud Analytics & Risk Scoring Platform
+
+- Developed an end-to-end Data Science application for identifying suspicious patterns in synthetic insurance, customer, contract and claims data.
+- Built a Python/SQL-based ETL workflow for data cleaning, feature engineering, model training and structured analytics.
+- Implemented fraud risk scoring using Logistic Regression, Random Forest and anomaly detection concepts.
+- Created interactive Streamlit dashboards for fraud KPIs, risk drivers, model performance and management-oriented business-case analysis.
+- Integrated MySQL as a database layer and designed the project for reproducible local execution.
